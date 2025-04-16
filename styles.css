@@ -272,7 +272,7 @@ input[type="checkbox"]:checked+label {
     border: none;
 }
 
-@media (max-width: 48rem) {
+@media (max-width: 36rem) {
     .uat {
         transform: none;
     }
